@@ -6,7 +6,10 @@ usando como ferramentas cucumber, pageObject, eclipse, Maven, geração dinânim
 
 
 <h3><b>1 - Primeiro execute o comando abaixo para baixar o projeto do git<b></h3>
-  <a href = "https://github.com/DiegoSUD/Automa-oCompra.git">GitHub</a>
+<h3><b> - Instale o git na sua maquina, e logo em seguida abra o git bash no lugar que queira colocar o projeto
+  Use o comando git clone e o link abaixo:
+   
+  https://github.com/DiegoSUD/Automa-oCompra.git<b></h3>
 
 <b>2 - Depois baixe baixe o JDK e o Eclipse na versão Version: Photon Release (4.8.0)<b>
     (OBS: O driver do ChromeDriver já está disponível no projeto
