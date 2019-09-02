@@ -1,6 +1,6 @@
 
 <h2>Projeto trata-se de uma automação de uma compra de produto clicando em apenas um botão,
-usando como ferramentas cucumber, pageObject, geração dinânimca tec...</h2>
+usando como ferramentas cucumber, pageObject, eclipse, Maven, geração dinânimca etc...</h2>
 
 <h1>CONFIGURAÇÃO E EXECUÇÃO ABAIXO:</H1>
 
